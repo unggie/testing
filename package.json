@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Practicing jest testing",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unggie/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unggie/testing/issues"
+  },
+  "homepage": "https://github.com/unggie/testing#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.0",
+    "jest": "^30.2.0",
+    "prettier": "3.8.1"
+  }
+}
